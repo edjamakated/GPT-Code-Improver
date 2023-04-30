@@ -7,7 +7,7 @@ This web app allows users to input their code and have it improved using GPT. Th
 [www.textlegends.com/code/](https://www.textlegends.com/code/)
 
 
-![Preview Screenshot](preview.png)
+![Preview Screenshot](preview1.png)
 
 ## Dependencies
 
