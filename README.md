@@ -2,6 +2,11 @@
 
 This web app allows users to input their code and have it improved using GPT. The improved code is then displayed in a separate window along with a third window showing the differences between the original code and the improved code.
 
+## Demo
+
+[www.textlegends.com/code/](https://www.textlegends.com/code/)
+![Preview Screenshot](preview.png)
+
 ## Dependencies
 
 The web app depends on the following libraries:
